@@ -1,26 +1,17 @@
 <!DOCTYPE html>
-<html class="light">
+<html>
 
 <head>
-
-    <!-- Basic -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>Orbit | Home</title>
-
-    <meta name="description" content="Orbit Audiovisual">
-
+    <title>Norrsken | Home</title>
+    <meta name="description" content="Norrsken Audiovisual">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-
+    <!-- <link rel="apple-touch-icon" href="img/apple-touch-icon.png"> -->
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-
     <!-- Web Fonts  -->
     <link href="https://fonts.googleapis.com/css?family=family=Lora:400,400i,700,700i|Poppins:300,400,500,600,700,800,900&display=swap" rel="stylesheet" type="text/css">
-
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
@@ -29,37 +20,27 @@
     <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-
     <!-- Theme CSS -->
     <link rel="stylesheet" href="css/theme.css">
     <link rel="stylesheet" href="css/theme-elements.css">
     <link rel="stylesheet" href="css/theme-blog.css">
     <link rel="stylesheet" href="css/theme-shop.css">
-
     <!-- Current Page CSS -->
     <link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
     <link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
     <link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
-
     <!-- Demo CSS -->
     <link rel="stylesheet" href="css/demos/demo-digital-agency-2.css">
-
     <!-- Skin CSS -->
     <link rel="stylesheet" href="css/skins/skin-digital-agency-2.css">
-
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="css/custom.css">
-
     <!-- fa WhatsApp -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
-
 </head>
-
 <body>
-    
 
     <div class="body">
         <header id="header" class="header-transparent header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': false, 'stickyStartAt': 1, 'stickyHeaderContainerHeight': 100}">
@@ -131,7 +112,6 @@
         </header>
 
         <div role="main" class="main">
-
             <div class="slider-container bg-color-dark rev_slider_wrapper p-relative overflow-hidden" style="height: 991px;">
                 <span class="custom-circle custom-circle-1 bg-color-light custom-circle-blur appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"></span>
                 <span class="custom-circle custom-circle-2 bg-color-primary appear-animation" data-appear-animation="zoomIn" data-appear-animation-delay="200"></span>
@@ -143,19 +123,13 @@
                     <ul>
                         <li data-transition="fade">
                             <img src="img/orbit/Topo_home.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
-
                             <div class="tp-caption main-label shadow-none custom-title-with-icon custom-title-with-icon-primary" data-x="['left','left','left','center']" data-y="center" data-start="700" data-hoffset="['0','0','0','0']" data-voffset="['-210','-80','-80','-75']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[100%];opacity:0;s:500;" data-fontsize="['22','20','20','18']" data-lineheight="27" style="font-weight: 400; color: #777; text-shadow: none;">Bem-vindo a Orbit Audiovisual</div>
-
                             <div class="tp-caption main-label text-center text-md-left text-color-light" data-x="['left','left','left','center']" data-y="center" data-start="800" data-hoffset="['0','0','0','0']" data-voffset="['-120','0','0','0']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[50%];opacity:0;s:500;" data-fontsize="['55','51','51','40']" data-lineheight="['65','60','60','50']" style="text-shadow: none; z-index: 5; font-weight: 700;">Surpreenda, impacte e<br>envolva seu público.</div>
-
                             <a class="btn btn-outline custom-btn-outline btn-primary rounded-0 tp-caption text-center text-decoration-none font-weight-semibold text-color-light bg-color-hover-primary px-4 py-3 custom-btn-with-arrow" data-hash data-hash-offset="100" href="https://wa.me/5511996006164" data-x="['left','left','left','center']" data-y="center" data-start="900" data-hoffset="['0','0','0','0']" data-voffset="['10','130','130','120']" data-width="['auto']" data-height="['auto']" data-fontsize="['16','16','16','16']" data-transform_in="y:[100%];opacity:0;s:500;">Vamos Começar</a>
-                            
                         </li>
                     </ul>
                 </div>
             </div>
-
-
 
             <section class="custom-cards p-relative mb-5 pb-5 z-index-2">
                 <div class="container">
@@ -197,10 +171,9 @@
                         <div class="col-lg-6 col-xl-4 d-flex flex-column justify-content-center align-items-start">
                             <h4 class="custom-text-10 mb-4 pb-2 font-weight-bolder custom-title-with-icon custom-title-with-icon-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">ATENDIMENTO</h4>                            
                             
-                            <p class="custom-text-6 line-height-6 font-weight-light appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Trabalhamos ativamente com o cliente desde a elaboração, a realização 
-e acompanhamento integral das soluções que apresentamos, unindo de forma participativa 
-os conhecimentos e habilidades das nossas equipes com a valiosa experiência
-que nosso cliente possui em seu segmento de mercado.</p>
+                            <p class="custom-text-6 line-height-6 font-weight-light appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+                              Trabalhamos ativamente com o cliente desde a elaboração, a realização e acompanhamento integral das soluções que apresentamos, unindo de forma participativa 
+                              os conhecimentos e habilidades das nossas equipes com a valiosa experiência que nosso cliente possui em seu segmento de mercado.</p>
                             <!--
                             <a href="sobre.html">
                             <span class="btn btn-outline custom-btn-outline btn-light border-0 rounded-0 text-color-primary custom-text-5 font-weight-bolder custom-btn-with-arrow bg-transparent p-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600">Nossa história</span></a>
@@ -593,31 +566,18 @@ que nosso cliente possui em seu segmento de mercado.</p>
     <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script src="vendor/vide/jquery.vide.min.js"></script>
     <script src="vendor/vivus/vivus.min.js"></script>
-
     <!-- Theme Base, Components and Settings -->
     <script src="js/theme.js"></script>
-
     <!-- Current Page Vendor and Views -->
     <script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
     <script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
     <!-- Current Page Vendor and Views -->
     <script src="js/views/view.contact.js"></script>
-
     <!-- Demo -->
     <script src="js/demos/demo-digital-agency-2.js"></script>
-
     <!-- Theme Custom -->
     <script src="js/custom.js"></script>
-
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
-
-
-
-
-
-
 </body>
-
 </html>
