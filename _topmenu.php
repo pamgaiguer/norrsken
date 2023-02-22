@@ -20,32 +20,32 @@
                 <nav class="collapse">
                   <ul class="nav nav-pills" id="mainNav">
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3 active" href="/index.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3 active" href="index.php">
                       Home
                       </a>
                     </li>
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/sobre.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="sobre.php">
                       Sobre
                       </a>
                     </li>                  
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/servicos.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="servicos.php">
                       Serviços
                       </a>
                     </li>
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="http://orbitaudiovisual.com.br#lives">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#">
                       Porque a Norrsken
                       </a>
                     </li>
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/cases.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="cases.php">
                       Cases
                       </a>
                     </li>                  
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/contato.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="contato.php">
                       Contato
                       </a>
                     </li>

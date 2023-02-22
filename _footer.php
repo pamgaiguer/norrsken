@@ -15,14 +15,14 @@
                               <li>
                                 <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="sobre.html">A Norrsken</a>
                               </li>
-                                                          <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="/servicos.php">Serviços</a>
-                              </li>
-                                                          <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="/cases.php">Evento Online</a>
+                              <li>
+                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="servicos.php">Serviços</a>
                               </li>
                               <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="/contato.php">Contato</a>
+                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="cases.php">Evento Online</a>
+                              </li>
+                              <li>
+                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="contato.php">Contato</a>
                               </li>
                             </ul>
                           </nav>

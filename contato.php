@@ -27,7 +27,9 @@
               <h4 class="text-center custom-text-10 mb-4 pb-2 font-weight-bolder custom-title-with-icon custom-title-with-icon-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Fale com a gente, teremos prazer em atendê-lo<span class="text-color-primary">!</span></h4>
                                       
               <div class="d-flex flex-row flex-wrap align-items-center justify-content-center mb-4 pb-3">
-                <span class="d-flex flex-column flex-md-row text-center text-md-left px-5 px-md-0 mb-4 mb-md-0 align-items-center custom-text-5 font-weight-medium appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400"><i class="far fa-envelope text-color-primary text-4 mr-2" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600"></i> <a href="mailto:contato@orbitaudiovisual.com.br" class="text-color-default">contato@orbitaudiovisual.com.br</a></span>
+                <span class="d-flex flex-column flex-md-row text-center text-md-left px-5 px-md-0 mb-4 mb-md-0 align-items-center custom-text-5 font-weight-medium appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400"><i class="far fa-envelope text-color-primary text-4 mr-2" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600"></i> 
+                  <a href="mailto:comercial@norrskeneventos.com.br" class="text-color-default">comercial@norrskeneventos.com.br</a>
+                </span>
                 <span class="d-flex flex-column flex-md-row text-center text-md-left px-5 px-md-0 align-items-center custom-text-5 font-weight-medium appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600"><i class="far fa-clock text-color-primary text-4 ml-md-4 mr-md-2"></i>Seg - Sex 9:00am - 6:00pm </span>
               </div>
               
