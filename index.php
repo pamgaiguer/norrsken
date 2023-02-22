@@ -16,15 +16,21 @@
                 <div id="revolutionSlider" class="slider rev_slider manual" data-version="5.4.8" style="height: 991px;">
                     <ul>
                         <li data-transition="fade">
-                            <img src="img/orbit/Topo_home.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg">
-                            <div class="tp-caption main-label shadow-none custom-title-with-icon custom-title-with-icon-primary" data-x="['left','left','left','center']" data-y="center" data-start="700" data-hoffset="['0','0','0','0']" data-voffset="['-210','-80','-80','-75']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[100%];opacity:0;s:500;" data-fontsize="['22','20','20','18']" data-lineheight="27" style="font-weight: 400; color: #777; text-shadow: none;">Bem-vindo a Orbit Audiovisual</div>
-                            <div class="tp-caption main-label text-center text-md-left text-color-light" data-x="['left','left','left','center']" data-y="center" data-start="800" data-hoffset="['0','0','0','0']" data-voffset="['-120','0','0','0']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[50%];opacity:0;s:500;" data-fontsize="['55','51','51','40']" data-lineheight="['65','60','60','50']" style="text-shadow: none; z-index: 5; font-weight: 700;">Surpreenda, impacte e<br>envolva seu público.</div>
-                            <a class="btn btn-outline custom-btn-outline btn-primary rounded-0 tp-caption text-center text-decoration-none font-weight-semibold text-color-light bg-color-hover-primary px-4 py-3 custom-btn-with-arrow" data-hash data-hash-offset="100" href="https://wa.me/5511996006164" data-x="['left','left','left','center']" data-y="center" data-start="900" data-hoffset="['0','0','0','0']" data-voffset="['10','130','130','120']" data-width="['auto']" data-height="['auto']" data-fontsize="['16','16','16','16']" data-transform_in="y:[100%];opacity:0;s:500;">Vamos Começar</a>
+                            <img src="img/orbit/Topo_home.jpeg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-offsetstart="250 100" class="rev-slidebg" />
+                            <div class="tp-caption main-label shadow-none custom-title-with-icon custom-title-with-icon-primary" data-x="['left','left','left','center']" data-y="center" data-start="700" data-hoffset="['0','0','0','0']" data-voffset="['-210','-80','-80','-75']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[100%];opacity:0;s:500;" data-fontsize="['22','20','20','18']" data-lineheight="27" style="font-weight: 400; color: #777; text-shadow: none;">
+                              Bem-vindo a Norrsken
+                            </div>
+                            <div class="tp-caption main-label text-center text-md-left text-color-light" data-x="['left','left','left','center']" data-y="center" data-start="800" data-hoffset="['0','0','0','0']" data-voffset="['-120','0','0','0']" data-width="['auto']" data-height="['auto']" data-transform_in="y:[50%];opacity:0;s:500;" data-fontsize="['55','51','51','40']" data-lineheight="['65','60','60','50']" style="text-shadow: none; z-index: 5; font-weight: 700;">
+                            Eventos e locações de painel de LED, <br>
+                            iluminação e sonorização!
+                            </div>
+                            <a class="btn btn-outline custom-btn-outline btn-primary rounded-0 tp-caption text-center text-decoration-none font-weight-semibold text-color-light bg-color-hover-primary px-4 py-3 custom-btn-with-arrow" data-hash data-hash-offset="100" href="#" data-x="['left','left','left','center']" data-y="center" data-start="900" data-hoffset="['0','0','0','0']" data-voffset="['10','130','130','120']" data-width="['auto']" data-height="['auto']" data-fontsize="['16','16','16','16']" data-transform_in="y:[100%];opacity:0;s:500;">
+                              Vamos Começar
+                            </a>
                         </li>
                     </ul>
                 </div>
             </div>
-
             <section class="custom-cards p-relative mb-5 pb-5 z-index-2">
                 <div class="container">
                     <div class="row">
