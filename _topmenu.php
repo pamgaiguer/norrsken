@@ -6,8 +6,8 @@
           <div class="header-column header-column-logo">
             <div class="header-row">
               <div class="header-logo">
-                <a href="index.html">
-                <img alt="Norrken" width="139" height="48" src="img/orbit/logo-white.png">
+                <a href="index.php">
+                  <img alt="Norrsken" width="139" height="48" src="img/orbit/logo-white.png">
                 </a>
               </div>
             </div>
@@ -31,14 +31,24 @@
                   </li>
                   <li class="dropdown-primary">
                     <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="http://orbitaudiovisual.com.br#paineldeled">
+                    Sobre
+                    </a>
+                  </li>                  
+                  <li class="dropdown-primary">
+                    <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="http://orbitaudiovisual.com.br#paineldeled">
                     Serviços
                     </a>
                   </li>
                   <li class="dropdown-primary">
                     <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="http://orbitaudiovisual.com.br#lives">
-                    Eventos Online
+                    Porque a Norrsken
                     </a>
                   </li>
+                  <li class="dropdown-primary">
+                    <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/contato.php">
+                    Cases
+                    </a>
+                  </li>                  
                   <li class="dropdown-primary">
                     <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="/contato.php">
                     Contato

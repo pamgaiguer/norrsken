@@ -352,7 +352,7 @@
         </div>
 
         <!-- Botão WhatsApp -->
-        <a href="https://wa.me/5511996006164" class="float" target="_blank">
+        <a href="https://wa.me/5511917071123?text=Olá,%20gostaria%20de%20um%20orçamento!" class="float" target="_blank">
             <i class="fa fa-whatsapp my-float"></i>
         </a>        
 <?php include '_footer.php'; ?>
