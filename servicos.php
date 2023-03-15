@@ -4,7 +4,6 @@
 		<div class="body">
 
     <?php include '_topmenu.php'?>
-SERVICOS
 			<div role="main" class="main">
 
 				<section class="page-header page-header-modern page-header-background bg-color-dark p-relative z-index-1" data-plugin-lazyload data-original="img/orbit/Topo_quemsomos.jpeg">

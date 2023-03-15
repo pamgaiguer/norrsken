@@ -7,7 +7,7 @@
             <div class="header-row">
               <div class="header-logo">
                 <a href="index.php">
-                  <img alt="Norrsken" width="139" height="48" src="img/orbit/logo-white.png">
+                  <img alt="Norrsken" width="200" src="img/logos/norrsken-logo-topo.png">
                 </a>
               </div>
             </div>

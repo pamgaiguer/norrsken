@@ -6,7 +6,7 @@
     <title>Norrsken | Home</title>
     <meta name="description" content="Norrsken Audiovisual">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logos/favicon.png" type="image/x-icon" />
     <!-- <link rel="apple-touch-icon" href="img/apple-touch-icon.png"> -->
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">

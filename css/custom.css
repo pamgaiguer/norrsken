@@ -17,3 +17,9 @@
 .my-float{
 	margin-top:12px;
 }
+
+.logo-index{
+  display: inline-block;
+  margin-left: 30%;
+  margin-top: 10%;
+}

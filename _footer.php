@@ -6,35 +6,15 @@
                   <div class="row justify-content-between">
                     <div class="col-auto mr-auto">
                       <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-                        <div class="footer-nav footer-nav-links">
-                          <nav>
-                            <ul class="nav" id="footerNav">
-                              <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="index.html">Home</a>
-                              </li>
-                              <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="sobre.html">A Norrsken</a>
-                              </li>
-                              <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="servicos.php">Serviços</a>
-                              </li>
-                              <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="cases.php">Evento Online</a>
-                              </li>
-                              <li>
-                                <a class="text-color-hover-primary font-weight-semibold custom-text-2 text-capitalize" href="contato.php">Contato</a>
-                              </li>
-                            </ul>
-                          </nav>
-                        </div>			
+                      <ul class="header-social-icons social-icons social-icons-clean social-icons-icon-light social-icons-big d-none d-lg-block m-0 p-relative bottom-10">
+                          <li class="social-icons-instagram"><a href="https://www.instagram.com/norrskeneventos/" target="_blank" class="text-4" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                          <li class="social-icons-facebook"><a href="#" target="_blank" class="text-4" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                          <li class="social-icons-youtube"><a href="#" target="_blank" class="text-4" title="Facebook"><i class="fab fa-youtube"></i></a></li>
+                        </ul>                        
                       </div>							
                     </div>
                     <div class="col-auto">
                       <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="100">
-                        <ul class="header-social-icons social-icons social-icons-clean social-icons-icon-light social-icons-big d-none d-lg-block m-0 p-relative bottom-10">
-                          <li class="social-icons-instagram"><a href="https://www.instagram.com/norrskeneventos/" target="_blank" class="text-4" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-                          <!-- <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" class="text-4" title="Facebook"><i class="fab fa-facebook-f"></i></a></li> -->
-                        </ul>
                       </div>
                     </div>
                   </div>
