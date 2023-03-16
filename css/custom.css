@@ -9,17 +9,27 @@
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-    font-size:30px;
+  font-size:30px;
 	box-shadow: 2px 2px 3px #999;
-    z-index:10000;
+  z-index:10000;
 }
-
 .my-float{
 	margin-top:12px;
 }
-
 .logo-index{
   display: inline-block;
   margin-left: 30%;
   margin-top: 10%;
+}
+.text-color-quaternary-light{
+  color: #CCC;
+}
+.img-cases{
+  object-fit: cover;
+  margin: auto;
+  width: 500px;  
+  height: 250px;
+}
+.bg-black-green{
+  background-color: black;
 }

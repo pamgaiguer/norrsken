@@ -20,7 +20,7 @@
                 <nav class="collapse">
                   <ul class="nav nav-pills" id="mainNav">
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3 active" href="index.php">
+                      <a class="nav-link text-capitalize font-weight-semibold active custom-text-3" href="index.php">
                       Home
                       </a>
                     </li>
@@ -30,12 +30,7 @@
                       </a>
                     </li>                  
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="servicos.php">
-                      Serviços
-                      </a>
-                    </li>
-                    <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="choose.php">
                       Porque a Norrsken
                       </a>
                     </li>
@@ -63,7 +58,6 @@
           <div class="header-row">
             <ul class="header-social-icons social-icons social-icons-clean social-icons-icon-light social-icons-big d-lg-flex m-0 ml-lg-2">
               <li class="social-icons-instagram"><a href="https://www.instagram.com/norrskeneventos/" target="_blank" class="text-4" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-              <!-- <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" class="text-4" title="Facebook"><i class="fab fa-facebook-f"></i></a></li> -->
             </ul>
           </div>
         </div>
@@ -71,3 +65,4 @@
     </div>
   </div>
 </header>
+

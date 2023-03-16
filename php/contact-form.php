@@ -20,13 +20,13 @@ require 'php-mailer/src/SMTP.php';
 require 'php-mailer/src/Exception.php';
 
 // Step 1 - Enter your email address below.
-$email = 'contato@orbitaudiovisual.com.br';
+$email = 'contato@norrskeneventos.com.br';
 
 // If the e-mail is not working, change the debug option to 2 | $debug = 2;
 $debug = 0;
 
 // If contact form don't has the subject input change the value of subject here
-$subject = ( isset($_POST['subject']) ) ? $_POST['subject'] : 'Define subject in php/contact-form.php line 29';
+$subject = ( isset($_POST['subject']) ) ? $_POST['subject'] : 'Formulario de Contato';
 
 $message = '';
 

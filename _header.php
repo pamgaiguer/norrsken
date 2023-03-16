@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Norrsken | Home</title>
+    <title>Norrsken | Eventos e Locações</title>
     <meta name="description" content="Norrsken Audiovisual">
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png" type="image/x-icon" />

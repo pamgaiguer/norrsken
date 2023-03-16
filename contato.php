@@ -28,7 +28,7 @@
                                       
               <div class="d-flex flex-row flex-wrap align-items-center justify-content-center mb-4 pb-3">
                 <span class="d-flex flex-column flex-md-row text-center text-md-left px-5 px-md-0 mb-4 mb-md-0 align-items-center custom-text-5 font-weight-medium appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400"><i class="far fa-envelope text-color-primary text-4 mr-2" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600"></i> 
-                  <a href="mailto:comercial@norrskeneventos.com.br" class="text-color-default">comercial@norrskeneventos.com.br</a>
+                  <a href="mailto:contato@norrskeneventos.com.br" class="text-color-default">contato@norrskeneventos.com.br</a>
                 </span>
                 <span class="d-flex flex-column flex-md-row text-center text-md-left px-5 px-md-0 align-items-center custom-text-5 font-weight-medium appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600"><i class="far fa-clock text-color-primary text-4 ml-md-4 mr-md-2"></i>Seg - Sex 9:00am - 6:00pm </span>
               </div>
@@ -41,11 +41,11 @@
               
               <form class="contact-form" action="php/contact-form.php" method="POST">
                 <div class="contact-form-success alert alert-success d-none mt-4">
-                  <strong>Success!</strong> Your message has been sent to us.
+                  <strong>Sucesso!</strong> Sua mensagem foi enviada para nós! Aguarde que iremos retornar em breve!
                 </div>
               
                 <div class="contact-form-error alert alert-success d-none mt-4">
-                  <strong>Sucesso!</strong> Mensagem enviada.
+                  <strong>Erro!</strong> Algum erro aconteceu, por favor, tente novamente!
                   <!-- <span class="mail-error-message text-1 d-block"></span> -->
                 </div>
                 
@@ -72,7 +72,7 @@
                 </div>
                 <div class="form-row">
                   <div class="form-group col">
-                    <button type="submit" herf="index.html" class="btn btn-outline custom-btn-outline btn-primary rounded-0 text-color-dark custom-text-4 bg-color-hover-transparent text-color-hover-light font-weight-semibold custom-button-with-arrow px-4 py-3 appear-animation" data-loading-text="Loading..." data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600">Enviar</button>
+                    <button type="submit" class="btn btn-outline custom-btn-outline btn-primary rounded-0 text-color-dark custom-text-4 bg-color-hover-transparent text-color-hover-light font-weight-semibold custom-button-with-arrow px-4 py-3 appear-animation" data-loading-text="Loading..." data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600">Enviar</button>
                   </div>
                 </div>
               </form>
