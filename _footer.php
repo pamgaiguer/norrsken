@@ -1,4 +1,4 @@
-        <footer id="footer" class="mt-0 py-5">
+        <footer id="footer" class="">
           <div class="container py-5">
             <div class="row justify-content-between">
               <div class="col-sm-12 col-lg-7 col-xl-6 d-none d-sm-flex">
@@ -39,8 +39,6 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="vendor/common/common.min.js"></script>
     <script src="vendor/jquery.validation/jquery.validate.min.js"></script>
-    <script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
-    <script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
     <script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
     <script src="vendor/isotope/jquery.isotope.min.js"></script>
     <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
@@ -57,7 +55,6 @@
     <!-- Demo -->
     <script src="js/demos/demo-digital-agency-2.js"></script>
     <!-- Theme Custom -->
-    <script src="js/custom.js"></script>
     <!-- Theme Initialization Files -->
     <script src="js/theme.init.js"></script>
 
@@ -67,6 +64,16 @@
       const year = current.getFullYear();
       const date_format =  [month,year].join('/');
       document.getElementById('monthYear').innerHTML=date_format;
+
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
     </script>
 </body>
 </html>

@@ -6,7 +6,7 @@
           <div class="header-column header-column-logo">
             <div class="header-row">
               <div class="header-logo">
-                <a href="index.php">
+                <a href="/">
                   <img alt="Norrsken" width="200" src="img/logos/norrsken-logo-topo.png">
                 </a>
               </div>
@@ -20,27 +20,22 @@
                 <nav class="collapse">
                   <ul class="nav nav-pills" id="mainNav">
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold active custom-text-3" href="index.php">
-                      Home
-                      </a>
-                    </li>
-                    <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="sobre.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#about">
                       Sobre
                       </a>
-                    </li>                  
+                    </li>                                   
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="choose.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#whynorrsken">
                       Porque a Norrsken
                       </a>
                     </li>
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="cases.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#cases">
                       Cases
                       </a>
                     </li>                  
                     <li class="dropdown-primary">
-                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="contato.php">
+                      <a class="nav-link text-capitalize font-weight-semibold custom-text-3" href="#contact">
                       Contato
                       </a>
                     </li>

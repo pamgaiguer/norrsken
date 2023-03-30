@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
     <link rel="stylesheet" href="vendor/animate/animate.min.css">
     <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
     <!-- Theme CSS -->
